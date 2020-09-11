@@ -7,7 +7,7 @@
 + [Customizing Angular’s CLI templates](https://github.com/yoga1290/ng-cli-template#readme)
 
 ## 🔭 Experiments
-+ [Interactive templates](https://yoga1290.github.io/templates)
++ [Interactive templates](https://yoga1290.github.io/Templates)
 + [Video Quotes (Vue/Spring)](http://yoga1290.github.io/VideoQuotes) (takes a min under free Heroku)
 + [Template-based video wizard](https://github.com/yoga1290/storyreport#readme)
 + [NPM package for merging videos based on JSON configuration](https://github.com/yoga1290/H5Recorder#readme)
