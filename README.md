@@ -8,7 +8,7 @@
 
 ## 🔭 Experiments
 + [Interactive templates](https://yoga1290.github.io/Templates)
-+ [Video Quotes (Vue/Spring)](http://github.com/VideoQuotes#readme) ([website](https://yoga1290.github.io/VideoQuotes)takes a min under free Heroku)
++ [Video Quotes (Vue/Spring)](http://github.com/yoga1290/VideoQuotes#readme) ([website](https://yoga1290.github.io/VideoQuotes) takes a min under free Heroku)
 + [Template-based video wizard](https://github.com/yoga1290/storyreport#readme)
 + [NPM package for merging videos based on JSON configuration](https://github.com/yoga1290/H5Recorder#readme)
  
