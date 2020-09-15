@@ -14,7 +14,7 @@
  
 **📝 Notes:** [Kubernetes](https://github.com/yoga1290/cheatsheets/blob/master/Kubernetes.md) | [PyTorch | TensorFlow | Keras [WIP]](https://github.com/yoga1290/cheatsheets/blob/master/PyTorch.ipynb) | [NGINX/HTTPS, MySQL, Mongo & others on Docker/Compose](https://github.com/yoga1290/cheatsheets/blob/master/docker.md)
 
-💬 **Connect:** [📫](mailto:422328+yoga1290@users.noreply.github.com) | [<img width="30px" height="30px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.png?v=c78bd457575a">](https://stackoverflow.com/users/1683797/youssef-gamil) | [![goodreads](https://www.goodreads.com/images/badge/badge1.jpg)](https://www.goodreads.com/user/show/29229069-youssef-gamil)
+💬 **Connect:** [📫](mailto:yoga1290+gh@gmail.com) | [<img width="30px" height="30px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.png?v=c78bd457575a">](https://stackoverflow.com/users/1683797/youssef-gamil) | [![goodreads](https://www.goodreads.com/images/badge/badge1.jpg)](https://www.goodreads.com/user/show/29229069-youssef-gamil)
 
 <!-- ### 🧗🏻‍♂️Articles & Adventures -->
 <!--
