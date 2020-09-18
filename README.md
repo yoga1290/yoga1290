@@ -10,7 +10,7 @@
 + [Interactive templates](https://yoga1290.github.io/Templates)
 + [Video Quotes (Vue/Spring)](http://github.com/yoga1290/VideoQuotes#readme) ([website](https://yoga1290.github.io/VideoQuotes) takes a min under free Heroku)
 + [Template-based video wizard](https://github.com/yoga1290/storyreport#readme)
-+ [NPM package for merging videos based on JSON configuration](https://github.com/yoga1290/H5Recorder#readme)
++ [NPM package](https://github.com/yoga1290/H5Recorder#readme) for generating video based on query string parameters passed to a template webpage & merges it w other resources based on color keys
  
 **📝 Notes:** [Kubernetes](https://github.com/yoga1290/cheatsheets/blob/master/Kubernetes.md) | [PyTorch | TensorFlow | Keras [WIP]](https://github.com/yoga1290/cheatsheets/blob/master/PyTorch.ipynb) | [NGINX/HTTPS, MySQL, Mongo & others on Docker/Compose](https://github.com/yoga1290/cheatsheets/blob/master/docker.md)
 
