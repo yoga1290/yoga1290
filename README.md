@@ -1,4 +1,4 @@
-👨🏻‍💻 **Story:** My development journey started during middle school in anime fansite which introduced me to Java ME, made couple of experiments on my [Nokia 3510i](https://github.com/yoga1290/Nokia-3510i#readme). Recently I developed interest in reading philosophy, watching documentaries, tv debates, turning it into a dataset for a tuned VGG model and ideas of scalability.
+👨🏻‍💻 **Story:** My development journey started during middle school in anime fansite which introduced me to Java ME, made couple of experiments on my [Nokia 3510i](https://github.com/yoga1290/Nokia-3510i#readme). Recently I developed interest in reading philosophy, watching documentaries and making random experiments in my downtime.
 
 ### ⚙️ hacks
 + [Webpage canvas to FFmpeg video stream](https://github.com/yoga1290/ffmpeg-usermedia-experiment#readme)
